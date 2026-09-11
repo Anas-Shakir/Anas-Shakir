@@ -132,6 +132,7 @@ Exploring AI systems that connect models, tools, APIs, and real-world workflows.
 | 🤖 **Agentic Workflows** | Reasoning, tools, delegation, and control |
 | 👁️ **Vision Systems** | Turning visual understanding into useful software |
 | 💬 **Multimodal Interfaces** | Text + voice + images + visual interaction |
+| 📐 **Automated 3D Generation** | Generation through voice + Blender add-on (soon) |
 
 <br/>
 
