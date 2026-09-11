@@ -2,25 +2,22 @@
 
 ANAS SHAKIR
 
-Software Engineer · AI Builder · Systems Explorer
+Software Engineer · AI Builder
 
-Building intelligent systems where software meets real-world problems.
+Building intelligent systems, exploring AI, and turning ideas into working software.
 
 <br>
 
 
 
 
-
 </div>
 
-whoami
+about
 
-I'm a Software Engineering student building toward AI engineering and intelligent systems.
+I'm a Software Engineering student focused on AI engineering, intelligent systems, and machine learning.
 
-I like working on problems where AI is more than a chat box — systems that can perceive, retrieve, reason, plan, interact, and automate.
-
-My current interests sit around:
+I enjoy building systems where AI can do more than generate text — systems that can understand, retrieve, reason, plan, interact, and automate.
 
 AI Systems
 ├── LLM Applications
@@ -28,126 +25,99 @@ AI Systems
 ├── Agentic Systems
 ├── Multimodal AI
 ├── Computer Vision
-├── AI × Education
 └── Human–AI Interaction
 
-I don't want to just wrap an API. I want to understand the system around it.
+Build it. Break it. Understand it. Build it better.
 
-currently_building
+01 / CURRENTLY BUILDING
 
 🧠 Blindspot AI
 
-An AI-powered learning platform that turns recorded lectures into interactive learning experiences.
+Turning lectures into interactive learning experiences.
 
-Instead of treating a lecture as a video file, Blindspot treats it as a source of structured, timestamped knowledge.
+Blindspot processes lecture content into structured knowledge and uses it to create a more intelligent learning experience.
 
 LECTURE
-   │
-   ▼
-Audio / Video
-   │
-   ▼
-Transcription
-   │
-   ▼
-Timestamped Knowledge
-   │
-   ├───────────────┐
-   ▼               ▼
-Semantic        Learning
-Retrieval       Planning
-   │               │
-   └───────┬───────┘
-           ▼
-      AI Tutor
-           │
-      ┌────┴────┐
-      ▼         ▼
-   Q&A      AI Whiteboard
+   ↓
+TRANSCRIBE
+   ↓
+UNDERSTAND
+   ↓
+RETRIEVE
+   ↓
+PLAN
+   ↓
+TEACH
+   ↓
+INTERACT
 
-What makes it interesting
+Exploring: RAG · AI tutoring · semantic retrieval · personalized learning · interactive AI whiteboard · multimodal interaction
 
-🎙️ Lecture understanding — converts long-form lecture content into usable knowledge
+→ Explore Blindspot AI
 
-🔎 Semantic retrieval — finds relevant concepts instead of relying only on keyword matching
-
-🧭 Personalized learning plans — organizes learning into phases and concepts
-
-💬 Context-aware AI interaction — answers questions against the learner's actual material
-
-✏️ Interactive AI whiteboard — turns explanations into visual teaching
-
-📱 Conversational access — extending the learning experience into messaging interfaces
-
-🧩 Traceable knowledge — keeps answers connected to the underlying lecture context
-
-Repository: blindspot-ai
-
-featured_work
+02 / SELECTED WORK
 
 🕵️ Agentic Fraud Detection
 
-An agent-based approach to investigating suspicious financial transactions.
+Multi-agent investigation of suspicious financial transactions.
 
-Focus: multi-agent reasoning · transaction analysis · behavioral signals · fraud detection
+Agents Reasoning Fraud Detection Data Analysis
 
 🧠 CalmMind AI
 
-An AI-powered conversational application exploring how an LLM system can combine conversation, context, feedback, retrieval, and safety-oriented interaction.
+Conversational AI exploring context, memory, retrieval, feedback, and responsible interaction.
 
-Focus: LLM applications · conversational memory · RAG · evaluation · user interaction
+LLMs RAG Memory Streamlit
 
-👁️ Computer Vision Experiments
+👁️ Computer Vision
 
-Exploring computer vision beyond simple image classification — with an interest in object detection, visual understanding, and practical AI systems.
+Experiments around visual understanding, object detection, and practical computer vision systems.
 
-Focus: OpenCV · PyTorch · object detection · visual intelligence
+PyTorch OpenCV Computer Vision
 
-⚙️ AI Automation Systems
+⚙️ AI Automation
 
-I am particularly interested in AI systems for operational problems where work is still driven by spreadsheets, messages, documents, email, and repetitive manual workflows.
+Exploring AI systems that connect models, tools, APIs, and real-world workflows.
 
-Focus: agents · workflow automation · APIs · document intelligence · human-in-the-loop systems
+Agents APIs Automation Tool Calling
 
-the_lab
+03 / THE LAB
 
-Not everything I build is intended to become a product.
+Some ideas are built to become products.
 
-Some things are experiments designed to answer:
+Others are built simply to answer:
 
 "Can this actually work?"
 
-Current explorations
-
 Experiment
 
-Question
+Exploring
 
 🎓 Visual AI Teacher
 
-Can an AI explain concepts spatially instead of only generating text?
+Teaching through diagrams and spatial interaction
 
 🧠 AI Memory
 
-How should useful context persist without overwhelming the model?
+Persistent context without unnecessary information
 
 🔎 Retrieval Systems
 
-How can long-form information become reliably searchable?
+Making large bodies of information useful
 
 🤖 Agentic Workflows
 
-When should an AI system reason, delegate, use tools, or ask for approval?
+Reasoning, tools, delegation, and control
 
 👁️ Vision Systems
 
-How can visual understanding become part of useful applications?
+Turning visual understanding into useful software
 
 💬 Multimodal Interfaces
 
-What happens when AI can interact through text, voice, images, and visuals?
+Text + voice + images + visual interaction
 
-stack
+04 / TOOLBOX
 
 Languages
 
@@ -159,48 +129,31 @@ PyTorch OpenCV LLMs Embeddings RAG Vector Search
 
 AI Systems
 
-LangChain Agents MCP Tool Calling Semantic Retrieval
+LangChain Agents MCP Tool Calling
 
 Backend / Data
 
-FastAPI REST APIs PostgreSQL SQLite Cloud Storage
+FastAPI PostgreSQL SQLite REST APIs
 
-Application / Build
+Build / Infrastructure
 
-Streamlit Flutter Firebase Docker Git GitHub
+Docker Git GitHub Streamlit Flutter Firebase
 
-The stack changes. The goal doesn't: understand the system and build something useful.
+05 / HOW I THINK ABOUT BUILDING
 
-how_i_build
-
-                 ┌──────────────┐
-                 │    PROBLEM   │
-                 └──────┬───────┘
-                        │
-                        ▼
-                 ┌──────────────┐
-                 │   RESEARCH   │
-                 └──────┬───────┘
-                        │
-                        ▼
-                 ┌──────────────┐
-                 │  PROTOTYPE   │
-                 └──────┬───────┘
-                        │
-                        ▼
-                 ┌──────────────┐
-                 │    BUILD     │
-                 └──────┬───────┘
-                        │
-                        ▼
-                 ┌──────────────┐
-                 │    TEST      │
-                 └──────┬───────┘
-                        │
-                        ▼
-                 ┌──────────────┐
-                 │   ITERATE    │
-                 └──────────────┘
+        PROBLEM
+           ↓
+        RESEARCH
+           ↓
+       PROTOTYPE
+           ↓
+          BUILD
+           ↓
+         TEST
+           ↓
+        MEASURE
+           ↓
+        ITERATE
 
 I care about the difference between:
 
@@ -208,94 +161,21 @@ I care about the difference between:
 
 and
 
-"I understand why it works, where it fails, and how the system can improve."
+"I understand why it works, where it fails, and how to improve it."
 
-research_direction
+06 / RESEARCH DIRECTION
 
-I'm especially interested in the intersection of:
+I'm gradually moving deeper into:
 
-                 AI
-              /  |  \
-             /   |   \
-            /    |    \
-       Systems  ML   Interaction
-            \    |    /
-             \   |   /
-              \  |  /
-             Education
+Machine Learning · AI Systems · Computer Vision · Multimodal AI · Retrieval · Agents · Human–AI Interaction
 
-Long term, I want to go deeper into machine learning and AI research, while continuing to build real systems that turn those ideas into useful products.
+Long term, I want to combine serious ML understanding with real systems that people can actually use.
 
-Areas I want to explore more deeply:
+07 / BEYOND CODE
 
-Intelligent agents
+I also enjoy the parts of engineering that happen before the code:
 
-Multimodal learning
-
-Computer vision
-
-Retrieval and knowledge systems
-
-AI tutoring and education
-
-Human-AI interaction
-
-Memory and context management
-
-Reliable AI systems
-
-beyond_code
-
-I also enjoy working on the part of engineering that happens before the code:
-
-Problem definition
-
-System design
-
-Product thinking
-
-Team coordination
-
-Technical planning
-
-Prototyping
-
-Explaining complex ideas clearly
-
-I believe strong engineering is not only about writing more code.
-
-It is about knowing what deserves to be built.
-
-roadmap
-
-NOW
- │
- ├── Build stronger AI systems
- ├── Deepen ML fundamentals
- ├── Explore computer vision
- ├── Ship meaningful projects
- │
- ▼
-NEXT
- │
- ├── Advanced ML
- ├── AI research
- ├── Larger-scale systems
- └── Open-source contribution
- │
- ▼
-LONG TERM
- │
- └── Build / research AI systems
-     that create meaningful impact
-
-open_to
-
-I'm interested in:
-
-AI Engineering · Machine Learning · Research · Intelligent Systems · Open Source · Hackathons · Interesting Technical Problems
-
-If you're building something technically interesting, feel free to reach out.
+Problem Definition · System Design · Planning · Prototyping · Team Coordination · Technical Communication
 
 <div align="center">
 
@@ -303,6 +183,6 @@ BUILD → BREAK → UNDERSTAND → REBUILD
 
 <br>
 
-<sub>© Anas Shakir</sub>
+<sub>Always learning. Always building.</sub>
 
 </div>
